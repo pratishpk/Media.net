@@ -395,6 +395,8 @@ height: 90px;
     .third-con-txt{
         max-width: 100%;    
     }
+    .third-con-txt h1{
+        font-size: 45px;
 }
 
 /* -----------------------Section 4 Style ----------------------- */
